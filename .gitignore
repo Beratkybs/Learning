@@ -1,0 +1,9 @@
+.env
+*.class
+out/
+bin/
+.metadata/
+.settings/
+.classpath
+.project
+.DS_Store
