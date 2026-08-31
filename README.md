@@ -1,5 +1,7 @@
 # 📘 LearnIng — Kelime Öğrenme Uygulaması
 
+![Java](https://img.shields.io/badge/Java-8%2B-ED8B00?logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/UI-Java%20Swing-007396) ![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?logo=openai&logoColor=white) ![Jackson](https://img.shields.io/badge/JSON-Jackson-D22128)
+
 LearnIng, İngilizce–Türkçe kelime öğrenmeyi eğlenceli hale getirmek için geliştirilmiş bir Java Swing masaüstü uygulamasıdır. Uygulama; kelime eşleştirme oyunu, mini quiz, adam asmaca (hangman), favori kelimeler listesi, bir OpenAI destekli sohbet paneli ve hoş bir karşılama ekranı içerir.
 
 ## 🧩 Özellikler
